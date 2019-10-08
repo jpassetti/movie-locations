@@ -1,5 +1,11 @@
-{
-  "Marshall St.",
-  "Destiny USA",
-  "Shoppingtown Mall"
-}
+[
+	{
+		"name": "Destiny USA"
+	},
+	{
+		"name": "Movie Tavern"
+	},
+	{
+		"name": "Shoppingtown Mall"
+	}
+]
